@@ -72,7 +72,7 @@ yarn install OR npm install
 yarn run start OR npm run start
 ```
 
-### Lunch the frontend
+### Launch the frontend
 
 1) Open a new terminal window and navigate inside the 'Frontend' folder as you will need to keep the backend running in the background
 
